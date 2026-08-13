@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 **🎮 Videojuego:** [Guitar Flash - XGames](https://guitarflash.com/?lg=es)
 
-**📂 Evidencia:** [🔗 Ver Casos de Prueba y Bugs](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing)
+**📂 Evidencia:** [Ver Casos de Prueba y Bugs](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing)
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
