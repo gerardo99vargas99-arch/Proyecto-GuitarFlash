@@ -42,5 +42,5 @@ ________________________________________________________________________________
 
 📩[🔗 Mi Correo Electrónico](jerryjym352@gmail.com)
 
-<a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">LINKEDIN</a>
+🖥️<a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 
