@@ -38,9 +38,8 @@ ________________________________________________________________________________
 
 ## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
-🖥️[🔗 Mi Perfil De Linkedin](www.linkedin.com/in/gerardo-vargas-ventura1999)
 
-📩[🔗 Mi Correo Electrónico](jerryjym352@gmail.com)
-
-🖥️<a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
-
+🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
+<a href="mailto:jerryjym352@gmail.com">
+  <strong>📧 Mi Correo Electrónico</strong>
+</a>
