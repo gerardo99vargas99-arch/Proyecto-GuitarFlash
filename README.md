@@ -41,6 +41,4 @@ ________________________________________________________________________________
 
 🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 
-<a href="mailto:jerryjym352@gmail.com">
-  <strong>📧 Mi Correo Electrónico</strong>
-</a>
+📧 Mi Correo Electrónio: jerryjym352@gmail.com
